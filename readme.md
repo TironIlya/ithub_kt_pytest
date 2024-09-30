@@ -2,7 +2,7 @@ This task created for ITHub college.
 
 Убедитесь, что библиотека requests установлена:
 
-pip install requests
+python3 -m pip install requests
 
 Запуск тестов:
 
