@@ -1,4 +1,3 @@
-# test_pet.py
 import pytest
 import requests
 

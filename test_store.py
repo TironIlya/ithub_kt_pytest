@@ -1,4 +1,3 @@
-# test_store.py
 import pytest
 import requests
 
