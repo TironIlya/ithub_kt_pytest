@@ -1,5 +1,7 @@
 This task created for ITHub college.
 
+Mind map содержится в файле Swagger_Petstore_UML.png
+
 Убедитесь, что библиотека requests установлена:
 
 python3 -m pip install requests
